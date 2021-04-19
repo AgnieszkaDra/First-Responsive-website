@@ -9,3 +9,32 @@ body{
     color:#37374F;
 
 }
+
+.page-nav .hamburger{
+    border: 0;
+    background:0;
+    position: absolute;
+}
+
+.page-header{
+    position: absolute;
+    padding: 20px;
+    padding-top: 28px;
+}
+
+.page-nav .navigation-menu{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.article .article-header{
+    background: url(../img/tlo.jpg) no-repeat;
+    background-size: cover;
+    background-position: 50%; 
+    
+}
+
+.page-nav .navigation-menu{
+    display: none;
+}
